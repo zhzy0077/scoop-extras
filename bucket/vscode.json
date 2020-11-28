@@ -31,6 +31,18 @@
                 "b65d66860d9ccc18bfb05237b03e06db0d6c574be3d4b946c2a5e6865c08cb28",
                 "df2a5162e72e2518e2b75b4337c8e7b46c136554872af90fa0de1cf6ebef376f"
             ]
+        },
+        "arm64": {
+            "url": [
+                "https://vscode-update.azurewebsites.net/1.51.1/win32-arm64-archive/stable#/dl.7z",
+                "https://raw.githubusercontent.com/lukesampson/scoop-extras/master/scripts/vscode-install-context.reg",
+                "https://raw.githubusercontent.com/lukesampson/scoop-extras/master/scripts/vscode-uninstall-context.reg"
+            ],
+            "hash": [
+                "4387ba2dea41da8f2df921bc937d693d690bc66de290ee6fcf4645f056746627",
+                "b65d66860d9ccc18bfb05237b03e06db0d6c574be3d4b946c2a5e6865c08cb28",
+                "df2a5162e72e2518e2b75b4337c8e7b46c136554872af90fa0de1cf6ebef376f"
+            ]
         }
     },
     "bin": [
