@@ -11,9 +11,13 @@
         "32bit": {
             "url": "https://download.videolan.org/pub/vlc/3.0.11/win32/vlc-3.0.11-win32.7z",
             "hash": "ebcc628688f66961d9c68dbacc2a0f0da8c8357d4f1f081693a217f4708d971f"
+        },
+        "arm64": {
+            "url": "http://people.videolan.org/~jb/Builds/ARM/vlc-4.0.0-dev-20180508-aarch64.zip",
+            "hash": "6ac77bd90c9fdc38f71cd1ac06420d749276fa6c7ec36431ea17c2fb5eab1341"
         }
     },
-    "extract_dir": "vlc-3.0.11",
+    "extract_dir": "vlc-4.0.0-dev",
     "pre_install": [
         "if (!(Test-Path \"$persist_dir\\portable\") -and (Test-Path \"$env:APPDATA\\vlc\")) {",
         "    info \"Copying old '$env:APPDATA\\vlc' to '$persist_dir\\portable'\"",
