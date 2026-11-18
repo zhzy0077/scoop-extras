@@ -1,5 +1,5 @@
 {
-    "version": "2.6.0",
+    "version": "2.7.5",
     "description": "An open source, non-custodial, and private multi-currency crypto wallet.",
     "homepage": "https://stackwallet.com/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cypherstack/stack_wallet/releases/download/build_310/stack_wallet-v2.6.0-windows.zip",
-            "hash": "fb861816d4212bba54c53c7b6fef793437427cd15c3022fda79d3c5cbb9c68de"
+            "url": "https://github.com/cypherstack/stack_wallet/releases/download/build_325/stack_wallet-v2.7.5-windows.zip",
+            "hash": "f0fec08a211424964e2cd8e497e0343204cc1aa123897eacd7ad215086dff4c8"
         }
     },
     "extract_dir": "Release",
